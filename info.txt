@@ -1,0 +1,8 @@
+## Development environment
+Operating System - Mac OS
+Folder path is - /Users/<alias>/go/src/github.com/gogrpc
+Go version go1.14 darwin/amd64
+MongoDB - 4.2
+
+
+
